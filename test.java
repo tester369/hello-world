@@ -12,8 +12,14 @@ class testing {
 public static void main(String args[]) {
   testing box = new testing();
 
+  
+  
+  System.out.println(box.one+1);
+
+
   box.one++;
   Systm.out.println(box.one);
+
 }
 
 
