@@ -11,7 +11,9 @@ class testing {
 
 public static void main(String args[]) {
   testing box = new testing();
-  System.out.println(box.one);
+  
+  
+  System.out.println(box.one+1);
 }
 
 
