@@ -12,7 +12,7 @@ class testing {
 public static void main(String args[]) {
   testing box = new testing();
 
-  box.one++;
+  box.one += 3;;
   Systm.out.println(box.one);
 }
 
